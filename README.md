@@ -31,6 +31,12 @@ This section explains how to set up LARS...
 ## Schematic
 The schematic for the system can be found here..
 
+## Parts List
+The part list for the system can be found here..
+
+## Resources
+The part list for the system can be found here..
+
 
 
 
