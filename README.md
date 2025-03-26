@@ -19,8 +19,17 @@ This repository supports the **Lunar Attachment for Regolith Sublimation** (LARS
 The goal of LARS is to provide a reliable and efficient method of extracting pure water from the icy lunar regolith, supporting future human missions and robotic exploration.
 
 ## Table of Contents
-- [Flashing Raspberry Pi Pico W](#flashing)
+- [Installation & Setup](#installation-setup)
+  - [Flashing Raspberry Pi Pico W](#raspberry-pi-flashing)  
+- [Schematic](#schematic)
+- [Parts List](#parts-list)
+- [Resources](#resources)
 
+## Installation & Setup
+This section explains how to set up LARS...
+
+## Schematic
+The schematic for the system can be found here..
 
 
 
