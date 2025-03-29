@@ -1,7 +1,8 @@
 # L.A.R.S  
 **Lunar Attachment for Regolith Sublimation**
 
---- Rendered Image of the project will be inserted here on completion ---
+![Spinning Model](test.gif)
+
 
 This project is still in development, and setup is subject to change.
 
