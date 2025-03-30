@@ -20,7 +20,7 @@ This repository supports the **Lunar Attachment for Regolith Sublimation** (LARS
 
 ### Key Features
 - **Inductive Heating**: Induction coils heat drive screws, which penetrate and sublimate regolith.
-- **Steam Collection System**: Collects the vaporized regolith and condenses it into liquid water.
+- **Steam Collection System**: Collects the steam offput and condenses it into liquid water.
 - **Rover Attachment**: Designed for integration with a rover platform.
 
 ### Project Goal
@@ -31,17 +31,17 @@ This section explains how to set up the LARS system on your hardware and softwar
 
 ### Flashing Raspberry Pi Pico W
 1. Go to the official [MicroPython dowload page](https://micropython.org/download/RPI_PICO/)
-2. Download the latest '.uf2' file for the Raspberry Pi Pico W.
-3. Hold down the 'BOOTSEL' button on the Pico W.
-4. While holding 'BOOTSEL', plug the Pico W into your computer via USB.
-5. Release the 'BOOTSEL' button.
-6. The Pico W should appear as a USB mass storage device called 'RPI-RP2'.
-7. Copy the downloaded '.uf2' file to the RPI-RP2 drive.
+2. Download the latest `.uf2` file for the Raspberry Pi Pico W.
+3. Hold down the `BOOTSEL` button on the Pico W.
+4. While holding `BOOTSEL`, plug the Pico W into your computer via USB.
+5. Release the `BOOTSEL` button.
+6. The Pico W should appear as a USB mass storage device called `RPI-RP2`.
+7. Copy the downloaded `.uf2` file to the RPI-RP2 drive.
 8. The Pico W will automatically reboot and run MicroPython.
 
 ### Thonny Basics
 1. Download from [https://thonny.org.](https://thonny.org/)
-2. Open Thonny, select 'Tools > Options > Interpreter'.
+2. Open Thonny, select `Tools > Options > Interpreter`.
 3. Choose MicroPython (Raspberry Pi Pico).
 4. Select the correct COM/Serial port and click OK.
 5. Write and run Micropython scripts on the Pico W
