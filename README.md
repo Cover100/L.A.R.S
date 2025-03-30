@@ -1,7 +1,7 @@
 # L.A.R.S  
 **Lunar Attachment for Regolith Sublimation**
 
-[Spinning Model](Render.png)
+![Render](Render.png)
 
 ## Table of Contents
 - [Overview](#overview)
