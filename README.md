@@ -22,7 +22,6 @@ This repository supports the **Lunar Attachment for Regolith Sublimation** (LARS
 - **Inductive Heating**: Induction coils heat drive screws, which penetrate and sublimate regolith.
 - **Steam Collection System**: Collects the vaporized regolith and condenses it into liquid water.
 - **Rover Attachment**: Designed for integration with a rover platform.
-- **Modular Components**: The system is designed for scalability and upgrades.
 
 ### Project Goal
 The goal of LARS is to provide a reliable and efficient method of extracting pure water from the icy lunar regolith, supporting future human missions and robotic exploration.
