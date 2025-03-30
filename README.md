@@ -9,6 +9,17 @@ This project is still in development, and setup is subject to change.
 ## Project Summary
 This repository supports the **Lunar Attachment for Regolith Sublimation** (LARS), a prototype designed to extract pure water from icy lunar regolith deposits. The system uses heated drive screws powered by induction coils to penetrate and vaporize the regolith, with a steam collection system that condenses the vapor into liquid water. The LARS system is intended for integration with a lunar rover platform for autonomous operation in challenging lunar environments.
 
+## Project Structure
+LARS/
+│── Preliminary/       # Early design documents, simulations, and concepts
+│── MVP/               # Prototype development, testing, and initial results
+│── Final_Product/     # The complete and functional version
+│   ├── code/          # Contains the actual Python code
+│   │   ├── main.py
+│   │   ├── bluetoothConnection.py
+│   │   ├── servoControl.py
+│── README.md          # Project overview and instructions
+
 
 ## Key Features:
 - **Inductive Heating**: Induction coils heat drive screws, which penetrate and sublimate regolith.
