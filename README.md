@@ -60,10 +60,10 @@ print("Hello World!")
 The schematic for the system can be found in the `docs/` folder for detailed instructions on connecting the components.
 
 ## Parts List
-- [12V Relay Module](https://www.amazon.com/dp/B01D5H6XUE) - **Quantity**: 2  
+- [12V Relay Module](https://www.amazon.com.au/dp/B0D14LXTW7?ref=ppx_yo2ov_dt_b_fed_asin_title) - **Quantity**: 2  
 - [ZVS Induction Heating Power Supply Module](https://www.amazon.com/dp/B08DJ9NT74) - **Quantity**: 2  
-- [Constant Current CC CV Buck Converter Module](https://www.amazon.com/dp/B07ZL7N2QY) - **Quantity**: 1  
-- [DC Brushless Cooling Fan (60mm x 15mm)](https://www.amazon.com/dp/B08BBNDDJ3) - **Quantity**: 2  
+- [Constant Current CC CV Buck Converter Module](https://www.amazon.com.au/dp/B07R832BRX?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) - **Quantity**: 1  
+- [DC Brushless Cooling Fan (60mm x 15mm)](https://www.amazon.com.au/dp/B0BZKY4GF2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) - **Quantity**: 2  
 - [Raspberry Pi Pico W](https://www.raspberrypi.org/products/pico-w/) - **Quantity**: 1  
 - [DRV8825 Stepper Motor Drivers](https://www.amazon.com/dp/B07ZVKP9P9) - **Quantity**: 2  
 - [HC-05 Bluetooth Module](https://www.amazon.com/dp/B07Z2C8V9L) - **Quantity**: 1  
