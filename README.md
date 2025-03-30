@@ -31,8 +31,8 @@ The goal of LARS is to provide a reliable and efficient method of extracting pur
 This section explains how to set up the LARS system on your hardware and software environment.
 
 ### Flashing Raspberry Pi Pico W
-1. Download the latest firmware for Raspberry Pi Pico W.
-2. Use [Raspberry Pi Imager](https://www.raspberrypi.org/software/) to flash the firmware onto the device.
+1. Go to the official [MicroPython dowload page]([https://www.raspberrypi.org/software/](https://micropython.org/download/RPI_PICO/))
+2. Download the latest .uf2 file for the Raspberry Pi Pico W.
 
 ### Thonny Basics
 1. Download and install [Thonny IDE](https://thonny.org/) to start programming the Raspberry Pi Pico.
